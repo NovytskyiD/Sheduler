@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{854E9503-34E9-4E98-B557-21CB1B6E6387}</ProjectGuid>
+    <ProjectGuid>{B5599336-0B13-491E-9221-7D52F5A54B28}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Sheduler</RootNamespace>
     <AssemblyName>Sheduler</AssemblyName>
